@@ -1,3 +1,3 @@
-import { renderMarkdown } from "penx";
+import { renderMarkdown } from 'penx'
 
-renderMarkdown("# hello world!");
+renderMarkdown('# hello world!!!')
