@@ -1,5 +1,5 @@
-import { renderMarkdown } from 'penx'
+import { MarkdownBuilder, render } from "penx";
 
 export async function main() {
-  renderMarkdown('# hello world!')
+  render(new MarkdownBuilder("# Hello world"));
 }
