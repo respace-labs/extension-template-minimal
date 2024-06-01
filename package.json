@@ -6,8 +6,9 @@
     "release": "penx release"
   },
   "devDependencies": {
-    "penx": "^0.1.8",
-    "penx-cli": "^0.2.8",
+    "penx": "^0.1.10",
+    "penx-cli": "^0.2.10",
+    "prettier": "^3.2.5",
     "typescript": "^5.4.5"
   }
 }
