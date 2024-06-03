@@ -1,6 +1,6 @@
 {
-  "name": "Hello world",
-  "id": "hello-world",
+  "name": "hello-world",
+  "title": "Hello world",
   "description": "This is a hello wold demo.",
   "icon": "logo.svg",
   "commands": [
