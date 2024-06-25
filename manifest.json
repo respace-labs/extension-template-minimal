@@ -2,14 +2,19 @@
   "name": "hello-world",
   "title": "Hello world",
   "description": "This is a hello wold demo.",
-  "icon": "logo.svg",
+  "icon": {
+    "name": "mdi--react",
+    "className": "bg-gradient-to-r from-violet-500 to-fuchsia-500"
+  },
   "commands": [
     {
-      "name": "index",
+      "name": "hello",
       "title": "Hello world",
-      "subtitle": "",
-      "description": "",
-      "runtime": "worker"
+      "icon": {
+        "name": "lucide--list",
+        "className": "bg-gradient-to-r from-rose-500 to-purple-500"
+      },
+      "mode": "preset-ui"
     }
   ]
 }
