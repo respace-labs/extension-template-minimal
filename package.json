@@ -6,9 +6,10 @@
     "release": "penx release"
   },
   "devDependencies": {
-    "@penxio/preset-ui": "^0.6.0",
-    "penx-cli": "^0.6.0",
-    "prettier": "^3.2.5",
-    "typescript": "^5.4.5"
+    "@penxio/api": "^0.6.0",
+    "@penxio/preset-ui": "^0.6.1",
+    "penx-cli": "^0.6.1",
+    "prettier": "^3.3.2",
+    "typescript": "^5.5.2"
   }
 }
